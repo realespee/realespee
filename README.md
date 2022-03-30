@@ -1,4 +1,4 @@
-# Data Enthusiast | Software Developer | Msc. Student
+# Data | Frappe/ERPNext | Air Quality
 
 ### Welcome, I'm glad you're interested in me.
 
