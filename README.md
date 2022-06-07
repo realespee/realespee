@@ -7,8 +7,8 @@
 - 👀 I have previously worked on projects using `Frappe/ERPNext` ML/DL, Web APIs using `Python`, 
 Data Visualizations using `Plotly`, `matplotlib` and `D3js`, Data Mining, Computer Vision, GCP, `Reactjs` and more
 - 🌱 I’m currently learning `Natural Language Processing` leveraging `huggingface` and `Transformers`
-- 💞️ I’m looking to collaborate on The BluERP project
-- 📫 How to reach me on [mailto:wanyamasp@gmail.com](wanyamasp@gmail.com) & 	[Twitter](https://twitter.com/spwanyama)
+- 💞️ I’m looking to collaborate on Data projects especially in Air quality Research.
+- 📫 How to reach me on my [Email](mailto:wanyamasp@gmail.com) & 	[Twitter](https://twitter.com/spwanyama)
 - 🔶 Most of my work will be deployed [HERE](https://simonwanyama.com) soon...
 
 <!---
